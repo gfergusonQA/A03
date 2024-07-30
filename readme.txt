@@ -1,5 +1,16 @@
 // INSTRUCTIONS: //
-
+.
+.
+.
+.
+.
+.
+<<<<< ---- READ ALGO.DESIGN.DOC INSTEAD ------ >>>>>> 
+.
+.
+.
+.
+.
 After completing this code, you will be able to: 
 Write code using classes and objects that use dynamic memory.
 Create and use dynamic c-strings and dynamic arrays.

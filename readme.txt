@@ -5,7 +5,7 @@
 .
 .
 .
-<<<<< ---- READ ALGO.DESIGN.DOC INSTEAD ------ >>>>>> 
+<<<<< ---- READ ALGO-DESIGN.TXT INSTEAD ------ >>>>>> 
 .
 .
 .

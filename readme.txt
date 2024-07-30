@@ -6,6 +6,7 @@
 .
 .
 <<<<< ---- READ ALGO-DESIGN.TXT INSTEAD ------ >>>>>> 
+https://github.com/gfergusonQA/A03/blob/main/algo-design.txt 
 .
 .
 .
